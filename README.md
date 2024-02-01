@@ -24,7 +24,7 @@
 
 
 ```python
-from PREBIBLI import Predatamaker
+from Predatamaker import Predatamaker
 ```
 
 <span style="font-family: 'Ariel', sans-serif; font-size: 16px;">2. Criação da instância da classe:</span>
