@@ -19,15 +19,20 @@
 
 <span style="font-family: 'Ariel', sans-serif; font-size: 24px;">Como Usar</span>
 
+<span style="font-family: 'Ariel', sans-serif; font-size: 16px;">1. Instalar pacote</span>
 
-<span style="font-family: 'Ariel', sans-serif; font-size: 16px;">1. Importar Biblioteca</span>
+```python
+pip install Predatamaker
+```
+
+<span style="font-family: 'Ariel', sans-serif; font-size: 16px;">2. Importar Biblioteca</span>
 
 
 ```python
 from Predatamaker import Predatamaker
 ```
 
-<span style="font-family: 'Ariel', sans-serif; font-size: 16px;">2. Criação da instância da classe:</span>
+<span style="font-family: 'Ariel', sans-serif; font-size: 16px;">3. Criação da instância da classe:</span>
 
 
 
